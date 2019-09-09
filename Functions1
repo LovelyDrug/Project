@@ -1,0 +1,7 @@
+'use strict';
+const average = (a,b) => {
+const result = (a + b)/2; 
+  return result;
+};
+const res = average(2,4);
+console.log(res);
